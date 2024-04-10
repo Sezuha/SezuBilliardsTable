@@ -1,6 +1,6 @@
 {
   "name": "com.sezuha.billiards",
-  "displayName": "com.sezuha.billiards",
+  "displayName": "Billiards Table",
   "version": "0.0.1",
   "description": "Billiards table for worlds!",
   "gitDependencies": {},
